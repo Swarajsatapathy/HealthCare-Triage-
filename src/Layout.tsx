@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Outlet, Link, useLocation } from 'react-router-dom';
 import { Stethoscope, LayoutDashboard, UserPlus, ClipboardList, Settings } from 'lucide-react';
 

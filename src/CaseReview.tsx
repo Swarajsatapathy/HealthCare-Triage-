@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { 
-  AlertTriangle, Check, ShieldAlert, Clock, Activity, FileText, 
-  HelpCircle, ShieldQuestion, UserCheck, ArrowLeft, Cpu, User, Edit3, MessageSquare, Plus, FileOutput
+  AlertTriangle, Check, ShieldAlert, Clock, FileText, 
+  HelpCircle, ShieldQuestion, UserCheck, ArrowLeft, Cpu, User, Edit3, MessageSquare, FileOutput
 } from 'lucide-react';
 
 export function CaseReview() {
